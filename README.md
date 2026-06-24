@@ -1,5 +1,4 @@
 # 📈 Sales Forecasting System
-### B.Tech CSE Minor Project | Laxmi Narain College of Technology, Bhopal
 
 > **Predicting Revenue with Data-Driven Precision**
 
@@ -125,7 +124,5 @@ Predicted Revenue (₹)
 ---
 
 ## 👨‍💻 Author
-
 **Udit Raghuwanshi**  
-B.Tech Computer Science Engineering (2024–2028)  
-Laxmi Narain College of Technology, Bhopal
+
