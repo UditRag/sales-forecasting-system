@@ -17,7 +17,7 @@ wrapped inside a **Scikit-learn Pipeline** and deployed as an interactive
 
 ```
 Sales_Forecasting_Project/
-├── app.py                  ← Main Streamlit application (5 pages)
+├── app.py                  ← Main Streamlit application 
 ├── train_model.py          ← Pipeline training script
 ├── generate_data.py        ← Synthetic dataset generator
 ├── utils.py                ← Helper functions (charts, prediction, loaders)
